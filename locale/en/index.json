@@ -1,0 +1,17 @@
+{
+    "greeting" : "Welcome to QuickPay bot",
+    "lang_choice_prompt": "What's your preferred language?",
+    "lang_choice_options": "English|Spanish|Italian",
+    "lang_preferred_language": "Your preferred language is now %s.",
+    "user_data_request_base": "Please, input your ",
+    "user_data_id_number": "Identification number",
+    "user_data_password": "Password",
+    "user_data_verification": "Is this data correct?",
+    "system_processing": "Please wait, processing information",
+    "system_retry": "System retry, please wait",
+    "system_reset": "Process has terminated, please confirm if you want to make another consultation.",
+    "system_end": "Thank you for using our services. Good bye.",
+    "system_not_a_valid_option": "Not a valid option",
+    "system_yes": "Yes",
+    "system_no": "No"
+}

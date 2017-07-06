@@ -1,0 +1,24 @@
+{
+  "name": "bot2",
+  "version": "1.0.0",
+  "description": "bot2 description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idvillota/bot2.git"
+  },
+  "author": "ivan dario villota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idvillota/bot2/issues"
+  },
+  "homepage": "https://github.com/idvillota/bot2#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0",
+    "soap": "^0.19.2"
+  }
+}
